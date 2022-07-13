@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ...
-
+![img](https://github.com/VanCoghChan/VanCoghChan/blob/main/resources/IMG_2619.GIF)
 ...
 ### God never forget his man!May the force be with you!🌌 
 💌love for CQ <br />
-💗勒是雾都 <br />
-![](https://komarev.com/ghpvc/?username=VanCoghChan)
+💗勒是雾都 
+<br />
+### ![](https://komarev.com/ghpvc/?username=VanCoghChan&style=flat-square&color=ff69b4)
