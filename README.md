@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ...
 ### God never forget his man!May the force be with you!🌌 
-💌love for CQ
-💗勒是雾都
+💌love for CQ <br />
+💗勒是雾都 <br />
 ![](https://komarev.com/ghpvc/?username=VanCoghChan)
