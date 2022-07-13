@@ -1,5 +1,4 @@
-### May the force be with you!
-
+### Hi!This is Can 👋
 <!--
 **VanCoghChan/VanCoghChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+...
+## God never forget his man!Listen!May the force be with you!🌌 
+![](https://komarev.com/ghpvc/?username=VanCoghChan)
