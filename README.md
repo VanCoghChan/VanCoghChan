@@ -1,4 +1,4 @@
-### Hi!This is Can 👋
+## Hi!This is Can 👋
 <!--
 **VanCoghChan/VanCoghChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ...
-## God never forget his man!Listen!May the force be with you!🌌 
+
+...
+### God never forget his man!May the force be with you!🌌 
+💌love for CQ
+💗勒是雾都
 ![](https://komarev.com/ghpvc/?username=VanCoghChan)
