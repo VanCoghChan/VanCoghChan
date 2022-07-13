@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ...
-![img](https://github.com/VanCoghChan/VanCoghChan/blob/main/resources/IMG_2619.GIF)
+![img](hhttps://img2.baidu.com/it/u=2104480413,1133861277&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1657904400&t=f43c1a7c3eef3475afd7ed177ff6e3a3)
 ...
 ### God never forget his man!May the force be with you!🌌 
-💌love for CQ <br />
+💌love from CQ <br />
 💗勒是雾都 
 <br />
 ### ![](https://komarev.com/ghpvc/?username=VanCoghChan&style=flat-square&color=ff69b4)
