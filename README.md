@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](http://m.qpic.cn/psc?/V5075Bxo1gXaBh0gNE9s0A09AI0C5TlU/ruAMsa53pVQWN7FLK88i5qjRekxNSJS26OZcWC6qkjdLp5MdIp*1kJ8NabA.1HZ8TzF*wPzJ*mRFtIKjfv07gO.POdaMdfhhYfTlAke7IQA!/b&bo=WAJYAgAAAAACNxM!&rf=viewer_4)
+![img](http://81.68.120.162:8080/static/images/avatar.gif)
 
 ### May the force be with you!🌌 
 ### 💗love from 雾都  💗<br />
