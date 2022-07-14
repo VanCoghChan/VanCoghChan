@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ### May the force be with you!🌌 
 ### 💗love from 雾都  💗<br />
 <br />
-![](https://komarev.com/ghpvc/?username=VanCoghChan&style=flat-square&color=99cc33)
+<!-- ![](https://komarev.com/ghpvc/?username=VanCoghChan&style=flat-square&color=99cc33) -->
+<a href="https://github.com/VanCoghChan">
+    <img src="https://komarev.com/ghpvc/?username=VanCoghChan&style=for-the-badge&color=99cc33">
