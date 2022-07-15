@@ -19,22 +19,22 @@
     </h3>
     <div style="width:100%;"> 
     	<div style="">
-        	<img src="http://81.68.120.162:8080/static/images\pubg.ico"  alt="pubg" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png"  alt="no" width=30 style="margin-left:80px"/>
-            <img src="http://81.68.120.162:8080/static/images\apex.ico"  alt="pubg" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\yes.png"  alt="no" width=30 style="margin-left:80px"/>
+        	<img src="http://81.68.120.162:8080/static/images\pubg.ico" width=40/>
+        	<img src="http://81.68.120.162:8080/static/images\no.png" alt="no" width=30 style="margin-left:80px"/>
+            <img src="http://81.68.120.162:8080/static/images\apex.ico" width=40 style="margin-left:300px"/>
+        	<img src="http://81.68.120.162:8080/static/images\yes.png" width=30 style="margin-left:80px"/>
     	</div>
         <div style="margin-top:20px">
-        	<img src="http://81.68.120.162:8080/static/images\csgo.ico"  alt="pubg" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png"  alt="no" width=30 style="margin-left:80px"/>
-            <img src="http://81.68.120.162:8080/static/images\wrc7.ico"  alt="pubg" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png"  alt="no" width=30 style="margin-left:80px"/>
+        	<img src="http://81.68.120.162:8080/static/images\csgo.ico" width=40/>
+        	<img src="http://81.68.120.162:8080/static/images\no.png" alt="no" width=30 style="margin-left:80px"/>
+            <img src="http://81.68.120.162:8080/static/images\wrc7.ico" width=40 style="margin-left:300px"/>
+        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
     	</div>
         <div style="margin-top:20px">
-        	<img src="http://81.68.120.162:8080/static/images\diablo.ico"  alt="pubg" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\yes.png"  alt="no" width=30 style="margin-left:80px"/>
+        	<img src="http://81.68.120.162:8080/static/images\diablo.ico" width=40/>
+        	<img src="http://81.68.120.162:8080/static/images\yes.png" width=30 style="margin-left:80px"/>
             <img src="http://81.68.120.162:8080/static/images\partyanimal.ico"  alt="pubg" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png"  alt="no" width=30 style="margin-left:80px"/>
+        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
     	</div>
 	</div>
 </div>
