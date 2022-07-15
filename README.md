@@ -10,37 +10,7 @@
 </div>
 
 ![img](http://81.68.120.162:8080/static/images/avatar.gif)
-
-<br />
-
-<div>
-    <h3>
-        Game Play(today)
-    </h3>
-    <div style="width:100%;"> 
-    	<div style="">
-        	<img src="http://81.68.120.162:8080/static/images\pubg.ico" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
-            	<img src="http://81.68.120.162:8080/static/images\apex.ico" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\yes.png" width=30 style="margin-left:80px"/>
-    	</div>
-        <div style="margin-top:20px">
-        	<img src="http://81.68.120.162:8080/static/images\csgo.ico" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
-            	<img src="http://81.68.120.162:8080/static/images\wrc7.ico" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
-    	</div>
-        <div style="margin-top:20px">
-        	<img src="http://81.68.120.162:8080/static/images\diablo.ico" width=40/>
-        	<img src="http://81.68.120.162:8080/static/images\yes.png" width=30 style="margin-left:80px"/>
-            	<img src="http://81.68.120.162:8080/static/images\partyanimal.ico" width=40 style="margin-left:300px"/>
-        	<img src="http://81.68.120.162:8080/static/images\no.png" width=30 style="margin-left:80px"/>
-    	</div>
-	</div>
-</div>
-
 <br>
-
 <div>
     <h3>
         💗love from 雾都  💗
