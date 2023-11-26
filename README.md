@@ -11,9 +11,4 @@
 
 ![img](http://81.68.120.162:8080/static/images/avatar.gif)
 <br>
-<div>
-    <h3>
-        💗love from 雾都  💗
-    </h3>
-</div>
 
