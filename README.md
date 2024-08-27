@@ -9,6 +9,6 @@
     </div>
 </div>
 
-![img](http://81.68.120.162:8080/static/images/avatar.gif)
+🍊
 <br>
 
